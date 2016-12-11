@@ -9,6 +9,7 @@
  * @author  Michael Kolling and David J. Barnes
  * @version 2011.07.31
  */
+public tu madre!!
 public class Picture
 {
     private Square wall;
@@ -16,6 +17,8 @@ public class Picture
     private Triangle roof;
     private Circle sun;
     private Circle sun2;
+    private Circle sun;
+    private Circle sun2;    
 
     /**
      * Constructor for objects of class Picture
